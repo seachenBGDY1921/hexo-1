@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>再也不用rm -rf了</title>
+  
+  <subtitle>欢迎来到YMH的新家</subtitle>
+  <link href="https://website1.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://website1.github.io/"/>
+  <updated>2024-02-22T11:38:40.713Z</updated>
+  <id>https://website1.github.io/</id>
+  
+  <author>
+    <name>Yu Minghui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://website1.github.io/2024/02/22/hello-world/"/>
+    <id>https://website1.github.io/2024/02/22/hello-world/</id>
+    <published>2024-02-22T11:38:40.713Z</published>
+    <updated>2024-02-22T11:38:40.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
